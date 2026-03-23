@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "Oi"
+  },
+  {
+    "role": "assistant",
+    "content": "Oi! 👋 Tudo bem? \n\nSou um assistente de IA pronto para ajudá-lo. Posso:\n\n1. **Buscar informações na internet** - Pesquisar sobre qualquer assunto\n2. **Salvar arquivos** - Criar e salvar textos em arquivos locais\n\nO que você gostaria de fazer? Tem alguma pergunta, precisa de informações sobre algo específico, ou quer que eu crie um arquivo com algum conteúdo?"
+  }
+]
